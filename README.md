@@ -22,4 +22,4 @@ As your first step, your team must update the `README.md` file in your **own tea
 | Pratiksha Kadekar | BT26CS0150 | kadekarpl26.comp@coep.ac.in | 9272150074 | CSE | kadekarPratiksha |
 | Aniket Kale | BT26CS1151 | kaleak26.comp@coep.ac.in | 9270509182 | CSE | aniket-coep |
 
-*(Note: Use short forms for your branch. For example: CSE, AIML, MEC, ELEC, INSTRU)*
+*(Note: Use short forms for your branch. For example: CSE, AIML, MEC, ELEC, INSTRU)*_____
