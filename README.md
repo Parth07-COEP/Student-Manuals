@@ -16,9 +16,10 @@ As your first step, your team must update the `README.md` file in your **own tea
 
 | Name | UCMS ID | Email | Contact | Branch | GitHub Username |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., CSE] | [@username] |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., AIML] | [@username] |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., MEC] | [@username] |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., ELEC] | [@username] |
+| Parth Pangarkar | BT26ME1138 | pangarkarpr26.mech@coeptech.ac.in | 8446547911 | MEC | Parth07-COEP |
+| Ritika Pusdekar | BT26EE0131 | pusdekarrv26.elec@coeptech.ac.in | 9225311326 | ELEC | RitikaPusdekar |
+| Arnav Pathak | BT26ME1139 | pathakaa26.mech@coep.ac.in | 8767827535 | MEC | Arnav-coepp |
+| Pratiksha Kadekar | BT26CS0150 | kadekarpl26.comp@coep.ac.in | 9272150074 | CSE | kadekarPratiksha |
+| Aniket Kale | BT26CS1151 | kaleak26.comp@coep.ac.in | 9270509182 | CSE | aniket-coep |
 
 *(Note: Use short forms for your branch. For example: CSE, AIML, MEC, ELEC, INSTRU)*
